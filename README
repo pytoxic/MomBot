@@ -1,0 +1,2 @@
+This is a IRC bot which uses markov-chains to make conversation. It is programmed in python and needs Twisted 
+and Zope.It will connect to #python-forum on irc.freenode.net this can be changed by editing the _init_.py file.
